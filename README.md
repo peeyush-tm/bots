@@ -20,16 +20,15 @@ Table of Contents
 ## Platform Documentation
 - [ ] [Facebook messenger](https://developers.facebook.com/products/messenger/)
 - [ ] [Slack](https://api.slack.com/bot-users)
+- [ ] [Cisco Spark](https://developer.ciscospark.com/getting-started.html)
+- [ ] [Microsoft Bot Framework \ Skype](https://dev.botframework.com/)
 - [x] [Discord](https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun/)
 - [x] [Telegram](https://core.telegram.org/bots/api) - Excellent resource to get started
 - [x] [Kik](https://dev.kik.com/#/home)
 - [x] [Zulip](https://zulip.com/integrations/)
-- [x] [HipChat](https://developer.atlassian.com/hipchat/getting-started)
-- [ ] [Skype](https://developer.microsoft.com/en-us/skype/bots)
-- [ ] [Cisco Spark](https://developer.ciscospark.com/getting-started.html)
-- [ ] [Microsoft Bot Framework](https://dev.botframework.com/)
-- [ ] [WeChat](https://admin.wechat.com/)
-- [ ] [VKontakte](https://new.vk.com/dev/bizmessages)
+- [HipChat](https://developer.atlassian.com/hipchat/getting-started)
+- [WeChat](https://admin.wechat.com/)
+- [VKontakte](https://new.vk.com/dev/bizmessages)
 
 ## Tools For Building Bots
 - [x] [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
