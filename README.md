@@ -45,6 +45,14 @@ Table of Contents
 - [ ] [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 - [ ] [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
 
+### Notes about the [Tools For Building Bots](#tools-for-building-bots)
+
+Tool| Notes| Primary Purpose of the tool
+----|------|--------------------------
+wit.ai | `AI service` for the `bot builders` to understand - intent of the user and the input parameters set by the user. Uses NLP. Provides [RESTful API](https://wit.ai/docs/http/20160526#authentication-link) as well| NLP
+Botkit | Common framework to build bots and release onto Bot Platform. Currently supports - slack, twilio, facebook | Bot-builder
+
+
 ## Tools For Bot Analytics
 - [ ] [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
 - [ ] [Dialog](https://dialoganalytics.com/) - Chatbot analytics platform for marketers to drive user engagement, retention, conversion and understand behavior.
